@@ -12,7 +12,7 @@
 [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/)<sup>3</sup>,
 [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html)<sup>1</sup><br>
 
-<sup>1</sup>UC Berkeley, <sup>2</sup>Google Research, <sup>1</sup>UC San Diego
+<sup>1</sup>UC Berkeley, <sup>2</sup>Google Research, <sup>1</sup>UC San Diego <br>
 <sup>*</sup>denotes equal contribution
 
 
