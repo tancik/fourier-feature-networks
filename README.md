@@ -8,8 +8,8 @@
 [Sara Fridovich-Keil](https://people.eecs.berkeley.edu/~sfk/)<sup>1</sup>,
 [Nithin Raghavan](https://www.linkedin.com/in/nithinraghavan//)<sup>1</sup>,
 [Utkarsh Singhal](https://scholar.google.com/citations?user=lvA86MYAAAAJ&hl=en)<sup>1</sup>,
-[Jonathan T. Barron](http://jonbarron.info/)<sup>2</sup>,
 [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/)<sup>3</sup>,
+[Jonathan T. Barron](http://jonbarron.info/)<sup>2</sup>,
 [Ren Ng](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html)<sup>1</sup><br>
 
 <sup>1</sup>UC Berkeley, <sup>2</sup>Google Research, <sup>3</sup>UC San Diego <br>
