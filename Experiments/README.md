@@ -23,6 +23,7 @@ Embree
 pyembree
 trimesh
 ```
+You can to download used models(dragon, armadillo, buddha, lucy) from [Here](http://graphics.stanford.edu/data/3Dscanrep/). 
 
 ## Included Files
 
