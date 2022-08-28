@@ -6,7 +6,7 @@
 [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/)\*<sup>1,2</sup>,
 [Ben Mildenhall](https://people.eecs.berkeley.edu/~bmild/)\*<sup>1</sup>,
 [Sara Fridovich-Keil](https://people.eecs.berkeley.edu/~sfk/)<sup>1</sup>,
-[Nithin Raghavan](https://www.linkedin.com/in/nithinraghavan//)<sup>1</sup>,
+[Nithin Raghavan](https://www.linkedin.com/in/nithinraghavan/)<sup>1</sup>,
 [Utkarsh Singhal](https://scholar.google.com/citations?user=lvA86MYAAAAJ&hl=en)<sup>1</sup>,
 [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/)<sup>3</sup>,
 [Jonathan T. Barron](http://jonbarron.info/)<sup>2</sup>,
